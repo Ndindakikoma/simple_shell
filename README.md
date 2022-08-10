@@ -1,7 +1,8 @@
 # simple_shell
 
 
-## SHELL PROJECT Objectives There are three objectives to this assignment
+## Objectives 
+There are three objectives to this assignment
 
 * To familiarize ourselves with the Linux programming environment.
 
